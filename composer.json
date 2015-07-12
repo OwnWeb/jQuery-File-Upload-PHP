@@ -1,6 +1,6 @@
 {
     "name": "ownweb/jquery-file-upload-php",
-    "version": "1.0.0",
+    "description": "Add the jQuery File Upload PHP class as a vendor package to use it with composer autoloader",
     "authors": [
 	    {
 	    	"name": "OwnWeb",
@@ -11,6 +11,7 @@
             "email": "n.perraut@gmail.com"
         }
     ],
+    "license": "MIT",
     "minimum-stability": "stable",
     "require": {}
 }
