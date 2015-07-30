@@ -1,6 +1,10 @@
 {
     "name": "ownweb/jquery-file-upload-php",
     "authors": [
+    	{
+		"name" : "OwnWeb",
+		"email": "contact@ownweb.fr"
+	},
         {
             "name": "Nicolas Perraut",
             "email": "n.perraut@gmail.com"
