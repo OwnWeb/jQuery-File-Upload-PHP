@@ -10,6 +10,8 @@
  * http://www.opensource.org/licenses/MIT
  */
 
+namespace OwnWeb;
+
 class UploadHandler
 {
 
