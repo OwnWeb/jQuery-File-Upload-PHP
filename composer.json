@@ -1,16 +1,10 @@
 {
-    "name": "ownweb/jquery-file-upload-php",
-    "version": "1.0.0-dev",
+    "name": "ownweb/jquery-file-upload",
     "authors": [
-	    {
-	    	"name": "OwnWeb",
-	    	"email": "contact@ownwweb.fr"	    	
-	    },
         {
             "name": "Nicolas Perraut",
             "email": "n.perraut@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
