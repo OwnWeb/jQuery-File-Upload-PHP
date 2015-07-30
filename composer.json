@@ -1,5 +1,6 @@
 {
     "name": "ownweb/jquery-file-upload-php",
+    "description": "Implementation of jQuery-File-Upload PHP class for standalone import and autoload",
     "authors": [
     	{
 		"name" : "OwnWeb",
@@ -10,5 +11,6 @@
             "email": "n.perraut@gmail.com"
         }
     ],
+    "license": "MIT",
     "require": {}
 }
